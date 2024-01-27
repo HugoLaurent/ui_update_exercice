@@ -25,7 +25,7 @@ class UIUpdatesDemo extends StatelessWidget {
               textAlign: TextAlign.center,
             ),
             SizedBox(height: 24),
-            DemoButtons()
+            DemoButtons(),
           ],
         ),
       ),
